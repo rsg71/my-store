@@ -8,6 +8,22 @@
 }
 
 
+.font-small {
+  font-size: smaller;
+}
+
+.font-large {
+  font-size: larger;
+}
+
+.hover-grey:hover {
+  color: rgb(177, 177, 177);
+}
+
+.pointer {
+  cursor: pointer;
+}
+
 .footer {
   /* position: fixed; */
   bottom: 0;
